@@ -73,7 +73,7 @@ let q = [
             ],
             ["Q-->10 The 8051 microcontroller is an:",
               {
-                    "The 8051 microcontroller is an:": true,
+                    "8 bit": true,
                     "16-bit": false,
                     "32-bit":false,
                     "None": false
@@ -339,7 +339,7 @@ let q = [
               {
                     "LAN": false,
                     "PAN": false,
-                    "HAN":false,
+                    "HAN":true,
                     "All of these": false
                 }
             ],
@@ -650,4 +650,5 @@ const scriptURL = 'https://script.google.com/macros/s/AKfycbzgkuTOZaVZPpj4mSn3Qv
 
 
             }
+
 
