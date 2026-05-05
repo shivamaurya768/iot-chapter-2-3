@@ -398,7 +398,7 @@ let q = [
                     "7 element":true,
                     "8 element": false
                 }
-            ]
+            ],
             ["Q-->51  Sensors can be",
               {
                     "Light": false,
