@@ -804,7 +804,7 @@ let q = [
         ];
 
 
-           let index = 0;
+             let index = 0;
         let total = 0;
         let answered = new Array(q.length).fill(false);
         let selectedAnswers = new Array(q.length).fill(null);
@@ -1033,8 +1033,8 @@ check_box.addEventListener('change', function(){
 // end show password
 
 //login user
-let user_name="nscitm@123"
-let password=332211;
+let user_name=""
+let password=0;
 let login_name=document.getElementById("user");
 function login_usar(){
     if(pass.value==password && login_name.value==user_name){
